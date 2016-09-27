@@ -1,2 +1,5 @@
 # Bag-of-Gooduns
-Test
+
+Trying out this GitHub thang! =D
+
+Peace.
